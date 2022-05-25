@@ -106,7 +106,7 @@ void main()
 			 	 break;
 			}  
   	    case 6:
-  	  printf("\n goodbe");
+  	  printf("\n goodbye");
   	  exit(0);
   	  }
   	 }
